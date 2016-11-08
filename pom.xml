@@ -15,7 +15,7 @@
     <fabric8.maven.plugin.version>3.1.92</fabric8.maven.plugin.version>
 
     <!-- TODO rename -->
-    <wildfly-swarm.version>1.0.0.Final</wildfly-swarm.version>
+    <wildfly-swarm.version>2016.11.0</wildfly-swarm.version>
     <version.wildfly-swarm>2016.9</version.wildfly-swarm>
   </properties>
   <dependencyManagement>
